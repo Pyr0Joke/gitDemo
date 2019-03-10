@@ -6,3 +6,4 @@ public class Main {
 	// write your code here
     }
 }
+private final int a = 5
